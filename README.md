@@ -34,7 +34,12 @@ $ jupyter notebook
 ```
 $ virtualenv nombre_entorno
 $ pip install -r requirements.txt
-? Todo...
+$ uvicorn main:app --reload 
+- Nos ubicamos en http://127.0.0.1:8000/docs#/
+- Nos ubicamos en el api post /files/
+- Luego subimos usamos como input el archivo data_input.csv
+- Considerar que este archivo solo tomara en cuenta un valor (el ultimo). Favor de usar solo uno.
+- Considerar usar ese excel que ya tiene la estructura (body) del input
 ```
 
 Nilton Rojas Vales
