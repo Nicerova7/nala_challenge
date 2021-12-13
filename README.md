@@ -32,7 +32,7 @@ $ jupyter notebook
 ### App:
     * Creamos entorno virtual
 ```
-$virtualenv nombre_entorno
+$ virtualenv nombre_entorno
 $ pip install -r requirements.txt
 ? Todo...
 ```
