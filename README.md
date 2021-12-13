@@ -44,10 +44,16 @@ $ uvicorn main:app --reload
 
 #### Imágenes de app funcionando
 
+Deploy locally
+
 ![](/images_md/fastapi1.PNG)
 ![](/images_md/fastapi2.PNG)
 ![](/images_md/fastapi3.PNG)
 ![](/images_md/fastapi4.PNG)
 
 
+#### Deploy heroku
+TODO
+
 Nilton Rojas Vales
+2021
