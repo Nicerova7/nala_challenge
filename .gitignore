@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
 .app_nala/
 
-
+__pycache__/
 Notebook.ipynb
