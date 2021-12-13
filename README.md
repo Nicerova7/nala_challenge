@@ -21,17 +21,17 @@ Aqui encontraremos
     * Creando entorno virtual:
 
 ```
-    virtualenv nombre_entorno
-    pip install -r requirements.txt
+$ virtualenv nombre_entorno
+$ pip install -r requirements.txt
 
 ```
 
 ### App:
     * Creamos entorno virtual
 ```
-    virutalenv nombre_entorno
-    pip install -r requirements.txt
-    Todo...
+$virtualenv nombre_entorno
+$ pip install -r requirements.txt
+? Todo...
 ```
 
 Nilton Rojas Vales
