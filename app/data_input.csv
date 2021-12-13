@@ -1,0 +1,2 @@
+ID_USER;genero;monto;fecha;hora;dispositivo;establecimiento;ciudad;tipo_tc;linea_tc;interes_tc;status_txn;is_prime;dcto;cashback;fraude
+0;F;608,3456335;21/01/2020;20;"{'model': 2020; 'device_score': 3; 'os': 'ANDROID'}";Super;Merida;Física;71000;51;Aceptada;FALSE;6,083456335;5,475110702;FALSE
