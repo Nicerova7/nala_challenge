@@ -15,7 +15,7 @@ Aqui encontraremos
     - proyecto para desplegar nuestro modelo y usarlo con api
 
 
-#### Como ejecutar
+### Como ejecutar
 
 #### Notebook:
     * Creando entorno virtual:
@@ -29,7 +29,7 @@ $ jupyter notebook
 - Abrir Deteccion de fraude_3
 ```
 
-### App:
+#### App:
     * Creamos entorno virtual
 ```
 $ virtualenv nombre_entorno
@@ -42,7 +42,7 @@ $ uvicorn main:app --reload
 - Considerar usar ese excel que ya tiene la estructura (body) del input
 ```
 
-#### Imágenes de app funcionando
+### Imágenes de app funcionando
 
 Deploy locally
 
