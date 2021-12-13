@@ -19,18 +19,19 @@ Aqui encontraremos
 
 #### Notebook:
     * Creando entorno virtual:
-    ```
-        - virtualenv nombre_entorno
-        - pip install -r requirements.txt
 
-    ```
+```
+    virtualenv nombre_entorno
+    pip install -r requirements.txt
+
+```
 
 ### App:
     * Creamos entorno virtual
-    ```
-        - virutalenv nombre_entorno
-        - pip install -r requirements.txt
-        - Todo...
-    ```
+```
+    virutalenv nombre_entorno
+    pip install -r requirements.txt
+    Todo...
+```
 
 Nilton Rojas Vales
