@@ -42,4 +42,12 @@ $ uvicorn main:app --reload
 - Considerar usar ese excel que ya tiene la estructura (body) del input
 ```
 
+#### Imágenes de app funcionando
+
+![](/images_md/fastapi1.PNG)
+![](/images_md/fastapi2.PNG)
+![](/images_md/fastapi3.PNG)
+![](/images_md/fastapi4.PNG)
+
+
 Nilton Rojas Vales
