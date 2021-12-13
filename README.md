@@ -23,7 +23,10 @@ Aqui encontraremos
 ```
 $ virtualenv nombre_entorno
 $ pip install -r requirements.txt
-
+$ jupyter notebook
+- Abrir EDA_1
+- Abrir Clasificacion_2
+- Abrir Deteccion de fraude_3
 ```
 
 ### App:
